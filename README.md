@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviAsher
 - 👀 I’m interested in Math, Physics, Python and LaTeX
-- 🌱 I’m currently in High School on IFRJ
+- 🌱 I’m currently in High School 
 - 📫 How to reach me: My e-mail is daviashercb@gmail.com
 
 <!---
